@@ -1,0 +1,25 @@
+{
+  "repository": "module-localization-mymemory-react-inertia",
+  "capabilityKey": "liberusoftware/localization-mymemory",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-localization-mymemory-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/boilerplate/nextjs/localization-mymemory.md",
+  "presentationPlan": "projects/boilerplate/react/localization-mymemory.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
